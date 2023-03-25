@@ -1,0 +1,11 @@
+<torrent_config
+   run_path="metin2_launcher.exe"
+   run_path_enable="1"
+   bandwidth_range=""
+   cur_patcher_path="Metin2.exe"
+   new_patcher_path="metin2_patcher.exe"
+   new_patcher_crc32=""
+   new_patcher_url="metin2_patcher.exe">
+        <foreground_patch crcpatch_url="http://seusite.com/patch/" crcversion="0.0.0.1" />
+</torrent_config>
+
